@@ -1,4 +1,6 @@
-/*
+Question-->>
+
+
 Here is a sample line of code that can be executed in Python:
 
 print("Hello, World!")
@@ -19,7 +21,12 @@ Print Hello, World! to stdout.
 Sample Output 0
 
 Hello, World!
-*/
+
+
+Solution-->>
+
+
+
 
 
 print("Hello, World!")
