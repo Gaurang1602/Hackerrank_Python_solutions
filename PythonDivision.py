@@ -34,3 +34,9 @@ Sample Output 0
 
 1
 1.33333333333
+
+
+Solution-->>
+
+
+
