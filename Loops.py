@@ -32,3 +32,12 @@ Sample Output 0
 4
 9
 16
+
+Solution-->>
+
+
+n = int(input())
+for i in range(n):
+    print(i*i)
+                    
+
