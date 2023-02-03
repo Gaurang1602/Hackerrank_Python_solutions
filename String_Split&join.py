@@ -42,4 +42,11 @@ this-is-a-string
 Solution-->>
 
 
+def split_and_join(line):
+    # write your code here
+    c=line.split()
+    f='-'.join(c)
+    return f
+
+
 
