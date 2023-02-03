@@ -33,6 +33,13 @@ The one line contains a string consisting of space separated words.
 Sample Input
 
 this is a string   
+
 Sample Output
 
 this-is-a-string
+
+
+Solution-->>
+
+
+
