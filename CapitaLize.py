@@ -29,3 +29,13 @@ Chris Alan
 
 Solution-->>
 
+
+def solve(s):
+
+    # Capitalize in Python - HackerRank Solution START
+    for i in s.split():
+        s = s.replace(i,i.capitalize())
+    return s
+    # Capitalize in Python - HackerRank Solution END
+
+
