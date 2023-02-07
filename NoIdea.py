@@ -32,3 +32,8 @@ Explanation
 You gain  unit of happiness for elements  and  in set . You lose  unit for  in set . The element  in set  does not exist in the array so it is not included in the calculation.
 
 Hence, the total happiness is .
+
+
+Solution-->>
+
+,,
