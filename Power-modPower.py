@@ -1,4 +1,4 @@
-##Question-->>
+Question-->>
 
 So far, we have only heard of Python's powers. Now, we will witness them!
 
@@ -37,3 +37,8 @@ Sample Output
 
 81
 1
+
+
+Solution-->>
+
+
