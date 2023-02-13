@@ -35,3 +35,11 @@ Note: This result is bigger than . Hence, it won't fit in the long long int of C
   
 Solution-->>
 
+
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+print((a**b)+(c**d))
+
+
