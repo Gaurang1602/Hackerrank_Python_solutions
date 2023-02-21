@@ -30,7 +30,7 @@ Print the three lines as explained above.
 
 Sample Input 0
 
-3nnn
+3
 2
 Sample Output 0
 
